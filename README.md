@@ -169,8 +169,8 @@ https://github.com/sujaykumarmag/iasnlp/assets/75253527/b9883a1d-7132-498a-8d2e-
 
 ```
 @misc{iasnlp_project,
-  author = {Sujay Kumar},
-  title = {In-context Learning (ICL) and Baseline Model Development for Natural Language Processing},
+  author = {Abhinav P.M ., SujayKumar Reddy M., Oswald.C (Machine Translators)},
+  title = {In-context Learning (ICL), Finetuning and Baseline Model Development for Natural Machine Translation},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
