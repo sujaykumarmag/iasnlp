@@ -153,7 +153,7 @@ https://github.com/sujaykumarmag/iasnlp/assets/75253527/b9883a1d-7132-498a-8d2e-
 
 - [x] Include Finetuning Code
 - [x] Enhance documentation with more detailed explanations (report in `IASNLP_Project_report.pdf`)
-- [ ] Add support for GPU training (MPS Not available in TorchDrug)
+- [ ] Add support for GPU training (MPS for mac and cuda for Nvidia)
 - [ ] Research on SSA Attention Method
 
 
