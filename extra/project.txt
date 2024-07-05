@@ -1,0 +1,29 @@
+Project 5: Machine Translation
+
+– Title: Machine Translation with Large Language Models Decoder only VS encoder-decoder
+– Difficulty Level: Advanced
+– Mentor: Yash Bhaskar
+– Prerequisites: Python, NumPy Pandas, pytorch/TensorFlow/Keras
+
+
+
+– Description:
+
+Multilingual neural machine translation (NMT) enables training a single model
+that supports translation from multiple source languages into multiple target languages. 
+
+The state-of-the-art machine translation engines are based on encoder decoder-based architecture.
+However, recently large language models (LLMs) have demonstrated potential in handling multilingual machine translation (MMT).
+
+
+In this project one needs to investigate two questions: 
+
+1. How well does the performance of encoder-decoder based MT compared with smaller LLMs training using same data and similar parameters. 
+2. How do one quantify role of context (no of tokens) in translation with these two architectures.
+
+
+
+– References: 
+
+Massively Multilingual Neural Machine Translation https://aclanthology.org/N19-1388.pdf 
+Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis https://arxiv.org/pdf/2304.04675
